@@ -24,6 +24,12 @@ And of course Hirejob App Back-End itself is open source with a [public reposito
 
 Blanja App Back-End requires [Node.js](https://nodejs.org/) v10+ to run.
 
+```sh
+cd blanja-app-be
+npm i
+nodemon app
+```
+
 # Related Project
 
 :rocket: [`Frontend Peworld`](https://github.com/abubakar-adeni/hirejob_fe)
@@ -31,9 +37,3 @@ Blanja App Back-End requires [Node.js](https://nodejs.org/) v10+ to run.
 :rocket: [`Backend Peworld`](https://github.com/abubakar-adeni/hire_job_be)
 
 :rocket: [`Demo Peworld`](https://hirejob-fe-tqqw.vercel.app/)
-
-```sh
-cd blanja-app-be
-npm i
-nodemon app
-```
