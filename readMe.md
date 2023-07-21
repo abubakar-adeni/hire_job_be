@@ -25,7 +25,7 @@ And of course Hirejob App Back-End itself is open source with a [public reposito
 Blanja App Back-End requires [Node.js](https://nodejs.org/) v10+ to run.
 
 ```sh
-cd blanja-app-be
+cd hirejob-fe
 npm i
 nodemon app
 ```
