@@ -30,6 +30,10 @@ npm i
 nodemon app
 ```
 
+## Postman
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/20247883/2s946k6WDF)
+
 # Related Project
 
 :rocket: [`Frontend Peworld`](https://github.com/abubakar-adeni/hirejob_fe)
